@@ -1,2 +1,6 @@
 # DSGO
-Repo voor het RFC proces van Digitaal Stelsel Gebouwde Omgeving
+
+Deze pagina bevat het overzicht van de RFCs voor het Digitaal Stelsel Gebouwde Omgeving
+
+
+
