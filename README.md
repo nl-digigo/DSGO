@@ -1,2 +1,2 @@
-# DSGO-RFCs
-beheer RFC proces voor het Digitaal Stelsel Gebouwde Omgeving
+# DSGO
+Repo voor het RFC proces van Digitaal Stelsel Gebouwde Omgeving
