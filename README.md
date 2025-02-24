@@ -1,6 +1,8 @@
 # DSGO
 
-Deze pagina bevat het overzicht van de RFCs voor het Digitaal Stelsel Gebouwde Omgeving
+Deze repository bevat de RFCs voor het Digitaal Stelsel Gebouwde Omgeving.
+
+het bijbehorende issue board staat hier: https://github.com/orgs/nl-digigo/projects/10
 
 
 
