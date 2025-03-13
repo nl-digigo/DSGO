@@ -16,7 +16,7 @@ RFCs zijn beschreven volgens een [vast template](https://github.com/nl-digigo/DS
 
 ### Priority
 
-| Prioriteit | Omschrijving | Voorbeeld | Prioriteit en opvolging |
+|Niveau | Omschrijving | Voorbeeld | Prioriteit en opvolging |
 | ---------- | ------------ | --------- | ----------------------- |
 | blocker | Meerdere ketenprocessen kunnen niet functioneren. Het issue is een showstopper voor de digitale infrastructuur. | Issue met identifiers, Issue in OAuth implementatie | Direct opvolging aan geven. In geval van een blocker op een geïmplementeerde gegevensdienst gaat Incident Management in werking. | 
 | critical | Een ketenproces kan niet volwaardig functioneren zolang de wijziging niet is doorgevoerd. Het issue is een showstopper voor het ketenproces.| Endpoint ontbreekt, Transactiepatroon is niet werkbaar, Kritiek attribuut ontbreekt | Direct opvolging aan geven. |
