@@ -19,7 +19,7 @@ title: "[RFC voorstel:]"
 
 ## Rationale
 
-*Beschrijf de inhoudelijke argumenten voor de wijziging.*
+*Beschrijf de inhoudelijke argumenten voor de wijziging. Geef aan hoe de voorgestelde wijziging bijdraagt aan [richtinggevende principes van het DSGO](https://afsprakenstelseldsgo.atlassian.net/wiki/spaces/DSGO/pages/316968271/Richtinggevende+principes)* 
 
 ## Urgentie
 
@@ -29,10 +29,12 @@ title: "[RFC voorstel:]"
 
 ## Impact
 
-*Met een Impact label kan de impact van de wijziging worden aangegeven.
-Zie de [readme pagina](https://github.com/nl-digigo/DSGO/blob/main/README.md) voor uitleg over de verschillende niveaus.*
+*Beschrijf de verwachte technische en/of niet-technische impact op (of merkbare verandering voor) deelnemende partijen. Dit kan verschillen per rol (datarechthebbende, datadienstgebruiker, datadienstaanbieder, marktvoorziening, stelselvoorziening)* 
 
-*Beschrijf waarom de wijziging dit niveau van impact heeft.*
+*Met een Impact label kan de impact van de wijziging worden aangegeven.
+Zie de [readme pagina](https://github.com/nl-digigo/DSGO/blob/main/README.md) voor uitleg over de verschillende niveaus. Geef aan waarom de wijziging dit niveau van impact heeft.*
+
+
 
 ## indieners RFC
 
