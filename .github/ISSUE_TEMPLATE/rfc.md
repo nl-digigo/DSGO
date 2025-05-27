@@ -33,3 +33,7 @@ title: "[RFC voorstel:]"
 Zie de [readme pagina](https://github.com/nl-digigo/DSGO/blob/main/README.md) voor uitleg over de verschillende niveaus.*
 
 *Beschrijf waarom de wijziging dit niveau van impact heeft.*
+
+## indieners RFC
+
+Om te borgen dat elke RFC wordt ondersteund door gebruikers van het DSGO, dient het duidelijk te zijn door welke organisaties elke RFC is ingediend. Deze organisaties onderkennen en ondersteunen deze RFC. Een voorstel mag ook door één organisatie ingediend worden. 
