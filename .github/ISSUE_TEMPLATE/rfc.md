@@ -38,4 +38,4 @@ Zie de [readme pagina](https://github.com/nl-digigo/DSGO/blob/main/README.md) vo
 
 ## indieners RFC
 
-*Om te borgen dat elke RFC wordt ondersteund door gebruikers van het DSGO, dient het duidelijk te zijn welke organisaties de RFC indienen, wanneer dit niet de beheerorganisatie DSGO zelf is. Deze organisaties onderkennen en ondersteunen deze RFC. Een voorstel mag ook door één organisatie ingediend worden.*
+*Om te borgen dat elke RFC wordt ondersteund door gebruikers van het DSGO, dient het duidelijk te zijn welke organisaties de RFC indienen, wanneer dit niet de beheerorganisatie DSGO zelf is. Een voorstel mag ook door één organisatie ingediend worden.*
